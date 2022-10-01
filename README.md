@@ -17,6 +17,13 @@ Member4
 ```
 
 # **⌛Shedules**
+| Task | Status    |
+| :-------- | :------- |
+| Disscussion | Done |
+| Planning | Done |
+| File Structure | Done |
+| Task Assigning | 50% |
+| Basic Preperations | Done |
 
 
 # **📜PROJECT DESCRIPTION:**          
@@ -29,10 +36,15 @@ We can view the location of every bin in the web application by sending GPS loca
 # **🎯Skills Required:**        
 IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
 
-> Note: Star The Repo.
+
+
+> Note: Star The Repo, Come on....
+
 
 ## 🙌🏻License 
 
 MIT [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
+## Support
 
+For support, email Contact@prakash.me
