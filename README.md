@@ -15,8 +15,10 @@ Member2
 Member3
 Member4
 ```
+
 > Note: Star The Repo.
-> 
+
+
 # **📜PROJECT DESCRIPTION:**          
 Garbage level detection in bins.     
 Getting the weight of the garbage in the bin.      
