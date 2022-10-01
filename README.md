@@ -16,7 +16,7 @@ Member3
 Member4
 ```
 
-> Note: Star The Repo.
+# **⌛Shedules**
 
 
 # **📜PROJECT DESCRIPTION:**          
@@ -29,7 +29,10 @@ We can view the location of every bin in the web application by sending GPS loca
 # **🎯Skills Required:**        
 IBM Cloud,IBM Cloud Object Storage,Python,IBM Watson IoT Platform,Node-RED service,Cloudant DB.
 
+> Note: Star The Repo.
+
 ## 🙌🏻License 
 
-MIT
+MIT [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
+
 
