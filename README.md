@@ -49,6 +49,6 @@ MIT [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https:/
 
 For support, email Contact@prakash.me
 
-<a href = "https://github.com/Tanu-N-Prabhu/Python/graphs/contributors">
+<a href = "https://github.com/IBM-EPBL/IBM-Project-17521-1659672845/graphs/contributors">
   <img src = "https://contrib.rocks/image?repo=IBM-EPBL/IBM-Project-17521-1659672845"/>
 </a>
